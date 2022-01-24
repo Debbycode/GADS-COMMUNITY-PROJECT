@@ -1,8 +1,8 @@
 # GADS-COMMUNITY-PROJECT-2022
-DATABASE MANAGEMENT SYSTEM -  Student Management System 
-GADS COMMUNITY PROJECT
-DATABASE-MANAGEMENT-SYSTEM(DMS)
-Student Information System using SQLite and Tkinter
+#DATABASE MANAGEMENT SYSTEM -  Student Management System 
+#DATABASE-MANAGEMENT-SYSTEM(DMS)
+#Student Information System using SQLite and Tkinter
+
 This program utilizes the SQLite for database and Tkinter Module for GUI framework.
 
 The user can manage given student data such as the names - (first and last), age, email, course and Username. User can perform the following .functions:
