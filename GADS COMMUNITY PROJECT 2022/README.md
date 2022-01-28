@@ -17,6 +17,5 @@ The user can manage given student data such as the names - (first and last), age
 Instruction
 
 1. download zip file and extract files
-2. access the file with .py extention
-3. open and run the "Student_mangement_system.py" file
-4. open and run the "main.py" file
+2. access the main.py file
+3. open and run the "main.py" file
