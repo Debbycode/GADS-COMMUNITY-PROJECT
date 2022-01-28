@@ -1,4 +1,4 @@
-# GADS-COMMUNITY-PROJECT-2022
+# GADS-COMMUNITY-PROJECT-2021
 #DATABASE MANAGEMENT SYSTEM -  Student Management System 
 #DATABASE-MANAGEMENT-SYSTEM(DMS)
 #Student Information System using SQLite and Tkinter
@@ -16,9 +16,5 @@ Search for Students' data.
 Instruction
 
 download zip file and extract files
-access the file with .py extention
-open and run the "Student_mangement_system.py" file
-open and run the "main.py" fileGADS COMMUNITY PROJECT
-DATABASE-MANAGEMENT-SYSTEM(DMS)
-Student Information System using SQLite and Tkinter
-This program utilizes the SQLite for database and Tkinter Module for GUI framework.
+access the main.py file
+open and run the "main.py" file
